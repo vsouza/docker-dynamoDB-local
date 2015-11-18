@@ -32,5 +32,6 @@ __to start your local Kinesis, run:__
 `docker run -d -p 8080:8080 vsouza/dynamo-local --port 8080 --path .`
 
 ## License
-
 [MIT License](http://vsouza.mit-license.org/) © Vinicius Souza
+
+<img src="contribute.png" />
