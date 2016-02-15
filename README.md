@@ -2,6 +2,8 @@
 
 # Docker DynamoDB
 
+[![](https://badge.imagelayers.io/vsouza/dynamo-local:latest.svg)](https://imagelayers.io/?images=vsouza/dynamo-local:latest 'Get your own badge on imagelayers.io')
+
 Build for AWS DynamoDB local.
 
 ## What's DynamoDb
