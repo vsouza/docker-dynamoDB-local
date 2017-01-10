@@ -2,6 +2,7 @@
 # Docker DynamoDB
 
 [![](https://badge.imagelayers.io/vsouza/dynamo-local:latest.svg)](https://imagelayers.io/?images=vsouza/dynamo-local:latest 'Get your own badge on imagelayers.io')
+[![Docker Pulls](https://img.shields.io/docker/pulls/vsouza/dynamo-local.svg)](https://hub.docker.com/r/vsouza/dynamo-local/)
 
 Build for AWS DynamoDB local.
 
@@ -35,4 +36,3 @@ __to start your local DynamoDB, run:__
 ## License
 [MIT License](http://vsouza.mit-license.org/) © Vinicius Souza
 
-<img src="contribute.png" />
